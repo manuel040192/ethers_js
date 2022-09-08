@@ -1,7 +1,7 @@
 # ethers_js
 Ethers.js Tutorial
 
-I ran the command node ./examples/[each file's name] and got the following results:
+I ran the command node ./examples/[each file's name] and got the following results on a command terminal:
 
 1_accounts.js: 
 
